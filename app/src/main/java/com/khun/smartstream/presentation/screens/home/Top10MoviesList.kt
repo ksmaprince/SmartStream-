@@ -267,8 +267,8 @@ private fun MovieDescription(
         Text(text = movie.title ?: "", style = MaterialTheme.typography.displaySmall)
         Text(
             modifier = Modifier.fillMaxWidth(0.5f),
-            text = movie.title ?: "",
-            style = MaterialTheme.typography.bodyLarge,
+            text = movie.overview ?: "",
+            style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.75f),
             fontWeight = FontWeight.Light
         )
