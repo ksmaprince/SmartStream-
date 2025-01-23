@@ -12,11 +12,11 @@ A Smart TV streaming app built using Kotlin, leveraging the MVVM architecture pa
 Real-time data are from the [TMDB.org](https://www.themoviedb.org/).
 
 <p align="start">
-<img src="images/Home.gif" width="40%"/>
-<img src="images/Features.gif" width="40%"/>
-<img src="images/Movie.gif" width="40%"/>
-<img src="images/ShowSearch.gif" width="40%"/>
-<img src="images/PlayingTrailer.gif" width="40%"/>
+<img src="images/Home.gif" width="50%"/>
+<img src="images/Features.gif" width="50%"/>
+<img src="images/Movie.gif" width="50%"/>
+<img src="images/ShowSearch.gif" width="50%"/>
+<img src="images/PlayingTrailer.gif" width="50%"/>
 </p>
 
 # [Download APK FILE](https://ksmaprince.github.io/APK/SmartStream.apk)
