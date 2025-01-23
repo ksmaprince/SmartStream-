@@ -11,16 +11,38 @@
 A Smart TV streaming app built using Kotlin, leveraging the MVVM architecture pattern and Clean Architecture principles. The app includes features like movie trailer streaming, user profile management, ensuring a scalable, maintainable, and testable codebase.
 Real-time data are from the [TMDB.org](https://www.themoviedb.org/).
 
-<p align="start">
-<img src="images/Home.gif" width="50%"/>
-<img src="images/Features.gif" width="50%"/>
-<img src="images/Movie.gif" width="50%"/>
-<img src="images/ShowSearch.gif" width="50%"/>
-<img src="images/PlayingTrailer.gif" width="50%"/>
-</p>
+[//]: # (<p align="start">)
+
+[//]: # (<img src="images/Home.gif" width="50%"/>)
+
+[//]: # (<img src="images/Features.gif" width="50%"/>)
+
+[//]: # (<img src="images/Movie.gif" width="50%"/>)
+
+[//]: # (<img src="images/ShowSearch.gif" width="50%"/>)
+
+[//]: # (<img src="images/PlayingTrailer.gif" width="50%"/>)
+
+[//]: # (</p>)
+
+## Home Screen
+![Home.gif](images/Home.gif)
+
+## App Features
+![Features.gif](images/Features.gif)
+
+## Movie Screen
+![Movie.gif](images/Movie.gif)
+
+## Show/TV Series and Search
+![ShowSearch.gif](images/ShowSearch.gif)
+
+## Watch Trailer
+![PlayingTrailer.gif](images/PlayingTrailer.gif)
+
 
 # [Download APK FILE](https://ksmaprince.github.io/APK/SmartStream.apk)
-Download and install the APK in your Smart TV at home.
+### Download and install the APK in your Smart TV at home.
 
 # About the Project
 
