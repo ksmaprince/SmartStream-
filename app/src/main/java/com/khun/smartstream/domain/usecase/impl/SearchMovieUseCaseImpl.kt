@@ -1,6 +1,6 @@
 package com.khun.smartstream.domain.usecase.impl
 
-import com.khun.smartstream.data.model.Search
+import com.khun.smartstream.data.models.Search
 import com.khun.smartstream.data.util.NetworkResult
 import com.khun.smartstream.domain.repositories.IMovieRepository
 import com.khun.smartstream.domain.usecase.ISearchMovieUseCase

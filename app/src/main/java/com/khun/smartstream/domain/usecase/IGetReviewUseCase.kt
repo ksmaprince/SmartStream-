@@ -1,6 +1,6 @@
 package com.khun.smartstream.domain.usecase
 
-import com.khun.smartstream.data.model.Review
+import com.khun.smartstream.data.models.Review
 import com.khun.smartstream.data.util.NetworkResult
 import kotlinx.coroutines.flow.Flow
 

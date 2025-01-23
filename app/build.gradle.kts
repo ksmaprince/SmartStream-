@@ -40,7 +40,7 @@ android {
             )
         }
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -121,8 +121,6 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.logging.interceptor)
 
-    //implementation (libs.youtube.api)
-//    implementation(libs.google.api.services.youtube)
-//    implementation(libs.google.api.client.android)
+    //Youtube Player
     implementation(libs.core)
 }

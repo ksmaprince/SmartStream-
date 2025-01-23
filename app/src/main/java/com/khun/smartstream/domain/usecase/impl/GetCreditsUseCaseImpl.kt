@@ -1,11 +1,9 @@
 package com.khun.smartstream.domain.usecase.impl
 
-import com.khun.smartstream.data.model.Credit
-import com.khun.smartstream.data.model.Image
+import com.khun.smartstream.data.models.Credit
 import com.khun.smartstream.data.util.NetworkResult
 import com.khun.smartstream.domain.repositories.IMovieRepository
 import com.khun.smartstream.domain.usecase.IGetCreditsUseCase
-import com.khun.smartstream.domain.usecase.IGetImagesUseCase
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 

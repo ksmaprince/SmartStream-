@@ -37,7 +37,7 @@ import androidx.tv.material3.Text
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.khun.smartstream.R
-import com.khun.smartstream.data.model.Detail
+import com.khun.smartstream.data.models.Detail
 import com.khun.smartstream.data.util.StringConstants
 import com.khun.smartstream.domain.mapper.Crews
 import com.khun.smartstream.domain.mapper.toHourAndMinute

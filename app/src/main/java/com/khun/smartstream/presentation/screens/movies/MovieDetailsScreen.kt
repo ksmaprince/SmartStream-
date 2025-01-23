@@ -24,7 +24,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.tv.material3.MaterialTheme
 import com.khun.smartstream.R
-import com.khun.smartstream.data.model.Detail
+import com.khun.smartstream.data.models.Detail
 import com.khun.smartstream.data.util.StringConstants
 import com.khun.smartstream.domain.mapper.Casts
 import com.khun.smartstream.domain.mapper.Crews

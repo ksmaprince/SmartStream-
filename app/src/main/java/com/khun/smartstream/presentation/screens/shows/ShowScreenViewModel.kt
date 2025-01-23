@@ -2,10 +2,8 @@ package com.khun.smartstream.presentation.screens.shows
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.khun.smartstream.data.model.TrendingMovie
-import com.khun.smartstream.data.model.TrendingTV
+import com.khun.smartstream.data.models.TrendingTV
 import com.khun.smartstream.data.util.NetworkResult
-import com.khun.smartstream.domain.mapper.Movies
 import com.khun.smartstream.domain.mapper.TVs
 import com.khun.smartstream.domain.usecase.IGetTrendingTVUseCase
 import com.khun.smartstream.utils.TimeWindow

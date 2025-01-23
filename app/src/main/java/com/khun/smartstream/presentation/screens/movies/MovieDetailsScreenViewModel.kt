@@ -3,10 +3,10 @@ package com.khun.smartstream.presentation.screens.movies
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.khun.smartstream.data.model.Credit
-import com.khun.smartstream.data.model.Detail
-import com.khun.smartstream.data.model.Review
-import com.khun.smartstream.data.model.SimilarMovie
+import com.khun.smartstream.data.models.Credit
+import com.khun.smartstream.data.models.Detail
+import com.khun.smartstream.data.models.Review
+import com.khun.smartstream.data.models.SimilarMovie
 import com.khun.smartstream.data.util.NetworkResult
 import com.khun.smartstream.domain.mapper.Casts
 import com.khun.smartstream.domain.mapper.Crews

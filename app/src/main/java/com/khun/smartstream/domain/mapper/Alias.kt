@@ -1,14 +1,14 @@
 package com.khun.smartstream.domain.mapper
 
-import com.khun.smartstream.data.model.Backdrop
-import com.khun.smartstream.data.model.Cast
-import com.khun.smartstream.data.model.Crew
-import com.khun.smartstream.data.model.Genre
-import com.khun.smartstream.data.model.Poster
-import com.khun.smartstream.data.model.Result
-import com.khun.smartstream.data.model.ResultTV
-import com.khun.smartstream.data.model.ReviewResult
-import com.khun.smartstream.data.model.VideoResult
+import com.khun.smartstream.data.models.Backdrop
+import com.khun.smartstream.data.models.Cast
+import com.khun.smartstream.data.models.Crew
+import com.khun.smartstream.data.models.Genre
+import com.khun.smartstream.data.models.Poster
+import com.khun.smartstream.data.models.Result
+import com.khun.smartstream.data.models.ResultTV
+import com.khun.smartstream.data.models.ReviewResult
+import com.khun.smartstream.data.models.VideoResult
 
 typealias Movie = Result
 typealias Movies = List<Result>

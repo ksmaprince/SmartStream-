@@ -1,6 +1,6 @@
 package com.khun.smartstream.domain.usecase
 
-import com.khun.smartstream.data.model.TopRated
+import com.khun.smartstream.data.models.TopRated
 import com.khun.smartstream.data.util.NetworkResult
 import kotlinx.coroutines.flow.Flow
 

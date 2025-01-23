@@ -2,10 +2,10 @@ package com.khun.smartstream.presentation.screens.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.khun.smartstream.data.model.NowPlaying
-import com.khun.smartstream.data.model.Popular
-import com.khun.smartstream.data.model.TopRated
-import com.khun.smartstream.data.model.UpComming
+import com.khun.smartstream.data.models.NowPlaying
+import com.khun.smartstream.data.models.Popular
+import com.khun.smartstream.data.models.TopRated
+import com.khun.smartstream.data.models.UpComming
 import com.khun.smartstream.data.util.NetworkResult
 import com.khun.smartstream.domain.mapper.Movies
 import com.khun.smartstream.domain.usecase.IGetNowPlayingUseCase

@@ -2,7 +2,7 @@ package com.khun.smartstream.presentation.screens.movies
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.khun.smartstream.data.model.TrendingMovie
+import com.khun.smartstream.data.models.TrendingMovie
 import com.khun.smartstream.data.util.NetworkResult
 import com.khun.smartstream.domain.mapper.Movies
 import com.khun.smartstream.domain.usecase.IGetTrendingMovieUseCase

@@ -32,8 +32,8 @@ import androidx.tv.material3.Text
 import coil.compose.SubcomposeAsyncImage
 import coil.request.ImageRequest
 import com.khun.smartstream.R
-import com.khun.smartstream.data.model.Cast
-import com.khun.smartstream.data.model.Crew
+import com.khun.smartstream.data.models.Cast
+import com.khun.smartstream.data.models.Crew
 import com.khun.smartstream.data.util.StringConstants
 import com.khun.smartstream.domain.mapper.Casts
 import com.khun.smartstream.domain.mapper.Crews
